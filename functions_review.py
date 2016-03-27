@@ -1,19 +1,18 @@
 
 #Division Function: given two numbers returns quotient of the first number divided by the second number
 def division(num1, num2):
-    return num1/num2
-
+    return "your code here"
 
 #Uncomment the rest of these functions and get them to pass the tests!  
 
-def greeting(greet,name):
-    return "{} {}!".format(greet, name)
+# Greeting function: Concatenates two arguments and adds an exclamation point.
+# def greeting:
 
+# Return a value: Returns the string "Have a nice day!"
+# def return_a_value:
+    
 
-def return_a_value():
-    return "Have a nice day!"
+#Pizza Party: Has an optional argument that defaults to "cheese" and returns "cheese" when called without an argument
 
-#Has an optional argument that defaults to "cheese" and returns "cheese" when called without an argument
+# def pizza_party:
 
-def pizza_party(topping="Cheese"):
-    return topping
