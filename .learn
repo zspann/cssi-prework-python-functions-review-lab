@@ -1,7 +1,7 @@
 tags:
-  - todo
+  - functions
   - basics
   - tdd
 languages:
-  - ruby
+  - python
 resources: 2
